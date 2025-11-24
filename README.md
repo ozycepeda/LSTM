@@ -1,2 +1,2 @@
 # LSTM
-Explore the basics of the LSTM technic 
+A breif description: a basic implementation of LSTM
